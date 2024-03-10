@@ -1,6 +1,6 @@
 # ffmpeg-cropper
 
-Easily get the ffmpeg crop filter for your video
+Easily get the ffmpeg crop filter for your video : <https://its-just-nans.github.io/ffmpeg-cropper/>
 
 ## Credits
 
